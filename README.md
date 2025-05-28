@@ -34,11 +34,13 @@ Repository for recording LeetCode Algorithm problem solving
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0817-design-hashmap](https://github.com/Jeongsunga/LeetCode/tree/master/0817-design-hashmap) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jeongsunga/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jeongsunga/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
@@ -55,5 +57,18 @@ Repository for recording LeetCode Algorithm problem solving
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0817-design-hashmap](https://github.com/Jeongsunga/LeetCode/tree/master/0817-design-hashmap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
