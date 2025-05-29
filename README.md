@@ -36,11 +36,13 @@ Repository for recording LeetCode Algorithm problem solving
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0817-design-hashmap](https://github.com/Jeongsunga/LeetCode/tree/master/0817-design-hashmap) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeongsunga/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jeongsunga/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeongsunga/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jeongsunga/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
 |  |
@@ -59,10 +61,12 @@ Repository for recording LeetCode Algorithm problem solving
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0817-design-hashmap](https://github.com/Jeongsunga/LeetCode/tree/master/0817-design-hashmap) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeongsunga/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeongsunga/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +75,5 @@ Repository for recording LeetCode Algorithm problem solving
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeongsunga/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
