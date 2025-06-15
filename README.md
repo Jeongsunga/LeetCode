@@ -35,6 +35,7 @@ Repository for recording LeetCode Algorithm problem solving
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0349-intersection-of-two-arrays](https://github.com/Jeongsunga/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0817-design-hashmap](https://github.com/Jeongsunga/LeetCode/tree/master/0817-design-hashmap) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeongsunga/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Jeongsunga/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -51,6 +52,7 @@ Repository for recording LeetCode Algorithm problem solving
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jeongsunga/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0817-design-hashmap](https://github.com/Jeongsunga/LeetCode/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
@@ -76,4 +78,16 @@ Repository for recording LeetCode Algorithm problem solving
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Jeongsunga/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Jeongsunga/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jeongsunga/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jeongsunga/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Jeongsunga/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
