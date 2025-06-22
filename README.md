@@ -54,6 +54,7 @@ Repository for recording LeetCode Algorithm problem solving
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jeongsunga/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0817-design-hashmap](https://github.com/Jeongsunga/LeetCode/tree/master/0817-design-hashmap) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Jeongsunga/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Repository for recording LeetCode Algorithm problem solving
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Jeongsunga/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Jeongsunga/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
